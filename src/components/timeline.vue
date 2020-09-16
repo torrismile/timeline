@@ -42,9 +42,9 @@ export default {
   },
 
   filters: {
-    changeDateType: function(value) {
-      value = new Date(value)
-      return value.toDateString()
+    changeDateType: function(dateStr) {
+      var date = new Date(dateStr)
+      return date.toDateString()
     }
   }
 }
