@@ -97,11 +97,6 @@ body {
           right: -73px;
           z-index: 1000;
         }
-        &.big:before {
-          width: 24px;
-          height: 24px;
-          transform: translate(8px,-50%);
-        }
       }
       .info {
         color: #aaa;
@@ -118,9 +113,6 @@ body {
         .date {
           &:before {
             left: -63px;
-          }
-          &.big:before {
-            transform: translate(-8px,-50%);
           }
         }
       }
