@@ -20,7 +20,7 @@ export default {
   name: "timeline",
 
   props: {
-    jsonTimeline: Object,
+    jsonTimeline: Array,
   },
 
   computed: {
