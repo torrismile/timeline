@@ -1,5 +1,8 @@
 # timeline
 
+## Screenshot
+![Screen](./screenshots/screen01.png)
+
 ## Project setup
 ```
 npm install
