@@ -1,7 +1,7 @@
 # timeline
 
 ## Screenshot
-![Screen](./screenshots/screen01.png)
+![Screen](./screenshots/screen1.png)
 
 ## Project setup
 ```
